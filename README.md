@@ -16,4 +16,8 @@ Project consist of a simple task management application that helps create, updat
 - <b>Windows 10</b> (21H2)
 
 <h2>Visual Representation of Application</h2>
-<p></p>
+<p align="center">
+<br/>
+<img src="https://imgur.com/4lx7AsH.png" height="80%" width="80%" alt="Task Management App"/>
+<br />
+</p>
